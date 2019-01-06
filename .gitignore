@@ -13,3 +13,4 @@ install-sh
 missing
 stamp-h1
 gcrond
+cron_ui_build_output/
